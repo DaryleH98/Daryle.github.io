@@ -13,7 +13,7 @@ $(document).ready(function() {
 
 function testTypingEffect() {
     //caption = $('input#user-caption').val();
-    caption = "Hello, my name is <b><i>Daryle</i></b> and I am a ";
+     caption = "Hello, my name is <b>Daryle</b> and I am a  ";
     type();
 }
 
