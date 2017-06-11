@@ -129,14 +129,10 @@
 		};
 
 		/* ---------------------------------------------- /*
-	 			* Contact form ajax
-	 			* taken out since hosting will be on github
+		 * Contact form ajax
+		 * taken out since hosting will be on github
 		/* ---------------------------------------------- */
 
-		/* ---------------------------------------------- /*
-		 * Contact form ajax
-		/* ---------------------------------------------- */
-		//
 		// $('#contact-form').submit(function(e) {
 		//
 		// 	e.preventDefault();
